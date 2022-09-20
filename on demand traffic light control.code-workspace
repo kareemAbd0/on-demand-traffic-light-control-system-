@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "on demand traffic light control",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"dio.h": "c",
+			"interrupt.h": "c"
+		}
+	}
+}
